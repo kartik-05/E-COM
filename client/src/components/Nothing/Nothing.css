@@ -1,0 +1,10 @@
+.nothing-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40vh;
+    width: 100%;
+    font-size: 2rem;
+    letter-spacing: 0.8em;
+    text-transform: uppercase;
+}

@@ -1,0 +1,12 @@
+.wishlist-cards{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 40px;
+    column-gap: 10px;
+    width: 100%;
+    /* box-shadow: 0px 2px 5px rgba(0,0,0,0.2); */
+    box-sizing: border-box;
+    padding: 10px 0px;
+    border-radius: 3px;
+    background-color: white;
+}

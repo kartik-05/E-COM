@@ -1,0 +1,87 @@
+.signin-page-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.signin-page-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background: #4285F4;
+}
+
+.signin-page-inputs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.signin-page-logo{
+    color: #4285F4;
+    text-align: center;
+    width: 35%;
+    font-weight: 500;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.signin-page-text{
+    color: #272727;
+    text-align: center;
+    width: 35%;
+    font-weight: 500;
+    font-size: 2rem;
+}
+
+.signin-page-sub-text{
+    color: rgba(39, 39, 39,0.5);
+    text-align: center;
+    width: 35%;
+    font-weight: 500;
+    font-size: 0.7rem;
+    margin-bottom: 20px;
+
+}
+
+.signin-page-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 35%;
+}
+
+.signin-page-bottom-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgba(39, 39, 39,0.7);
+    text-align: center;
+    width: 50%;
+    font-weight: 600;
+    font-size: 0.85rem;
+    margin-top: 40px;
+}
+
+.signin-page-bottom-content div{
+    color: #4285F4;
+    margin-left: 6px;
+    cursor: pointer;
+}
+
+.google-sign-in-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    width: 100%;
+}
